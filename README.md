@@ -1,17 +1,18 @@
-Hector Tacuri                                  24-07-2024
+Hector Tacuri                                 
+24-07-2024
 
 Generar un sistema que soporte campeonatod deportivos, que considere:
 
 
-Deportes en equipo
+*Deportes en equipo
 
-Deporte individuales
+*Deporte individuales
 
-Inscripción en campeonatos
+*Inscripción en campeonatos
 
-Estadísticas, como tabla de posiciones, estadisticas individuales
+*Estadísticas, como tabla de posiciones, estadisticas individuales
 
-Sistemas de campeonatos: ejemplo liga, muerte subita, grupos
+*Sistemas de campeonatos: ejemplo liga, muerte subita, grupos
 
 Presentar el diagrama de clases
 
